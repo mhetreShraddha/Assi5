@@ -1,5 +1,3 @@
-Name: Mohith Lalita Kumar Parvataneni
-NUID: 001565574
 
 Task: To create my own professional portfolio website using HTML, CSS and BOOTSTRAP
 
